@@ -7,7 +7,7 @@ The percentage change over the quarter.
 The total stock volume.
 Additionally, conditional formatting should be applied to highlight positive changes in green and negative changes in red.
 
-Enhance the script to identify:
+the script identify:
 
 The stock with the "Greatest % Increase."
 The stock with the "Greatest % Decrease."
